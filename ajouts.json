@@ -1,7 +1,6 @@
 {
-  "main": {
-    "fr": "main",
-    "de_singulier": "die Hand",
-    "de_pluriel": "die Hände"
+  "pied": {
+    "fr": "pied",
+    "de_singulier": "der Fuß",
+    "de_pluriel": "die Füße"
   }
-}
