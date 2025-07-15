@@ -3,23 +3,17 @@
     "fr": "clé",
     "de_singulier": "der Schlüssel",
     "de_pluriel": "die Schlüssel"
-  }
-}
-{
+  },
   "table": {
     "fr": "table",
     "de_singulier": "der Tisch",
     "de_pluriel": "die Tische"
-  }
-}
-{
+  },
   "chaise": {
     "fr": "chaise",
     "de_singulier": "der Stuhl",
     "de_pluriel": "die Stühle"
-  }
-}
-{
+  },
   "fenêtre": {
     "fr": "fenêtre",
     "de_singulier": "das Fenster",
