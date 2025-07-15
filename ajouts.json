@@ -1,6 +1,17 @@
 {
-  "pied": {
-    "fr": "pied",
-    "de_singulier": "der Fuß",
-    "de_pluriel": "die Füße"
+  "bouilloire": {
+    "fr": "bouilloire",
+    "de_singulier": "die Teekanne",
+    "de_pluriel": "die Teekannen"
+  },
+  "ordinateur portable": {
+    "fr": "ordinateur portable",
+    "de_singulier": "der Laptop",
+    "de_pluriel": "die Laptops"
+  },
+  "calculatrice": {
+    "fr": "calculatrice",
+    "de_singulier": "der Taschenrechner",
+    "de_pluriel": "die Taschenrechner"
   }
+}
