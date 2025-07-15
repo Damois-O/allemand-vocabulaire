@@ -3,5 +3,10 @@
     "fr": "tête",
     "de_singulier": "der Kopf",
     "de_pluriel": "die Köpfe"
+  },
+  "pied": {
+    "fr": "pied",
+    "de_singulier": "der Fuß",
+    "de_pluriel": "die Füße"
   }
 }
