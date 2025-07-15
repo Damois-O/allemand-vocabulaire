@@ -1,0 +1,43 @@
+name: Mettre à jour le vocabulaire
+
+on:
+  push:
+    paths:
+      - "ajouts.json"
+
+jobs:
+  update-vocabulaire:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v3
+
+      - name: Configuration de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Fusionner ajouts.json dans vocabulaire.json
+        run: |
+          import json
+
+          with open("vocabulaire.json", "r", encoding="utf-8") as f:
+              vocab = json.load(f)
+
+          with open("ajouts.json", "r", encoding="utf-8") as f:
+              ajouts = json.load(f)
+
+          # Ajout ou remplacement des entrées
+          vocab.update(ajouts)
+
+          with open("vocabulaire.json", "w", encoding="utf-8") as f:
+              json.dump(vocab, f, indent=2, ensure_ascii=False)
+        shell: python
+
+      - name: Commit et push des changements
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add vocabulaire.json
+          git commit -m "🔁 Mise à jour automatique du vocabulaire"
+          git push
