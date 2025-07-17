@@ -1,22 +1,17 @@
 {
-  "clé": {
-    "fr": "clé",
-    "de_singulier": "der Schlüssel",
-    "de_pluriel": "die Schlüssel"
+  "chat": {
+    "fr": "chat",
+    "de_singulier": "die Katze",
+    "de_pluriel": "die Katzen"
   },
-  "table": {
-    "fr": "table",
-    "de_singulier": "der Tisch",
-    "de_pluriel": "die Tische"
+  "chien": {
+    "fr": "chien",
+    "de_singulier": "der Hund",
+    "de_pluriel": "die Hunde"
   },
-  "chaise": {
-    "fr": "chaise",
-    "de_singulier": "der Stuhl",
-    "de_pluriel": "die Stühle"
-  },
-  "fenêtre": {
-    "fr": "fenêtre",
-    "de_singulier": "das Fenster",
-    "de_pluriel": "die Fenster"
+  "lapin": {
+    "fr": "lapin",
+    "de_singulier": "das Kaninchen",
+    "de_pluriel": "die Kaninchen"
   }
 }
