@@ -38,5 +38,20 @@
     "fr": "fenêtre",
     "de_singulier": "das Fenster",
     "de_pluriel": "die Fenster"
+  },
+  "chat": {
+    "fr": "chat",
+    "de_singulier": "die Katze",
+    "de_pluriel": "die Katzen"
+  },
+  "chien": {
+    "fr": "chien",
+    "de_singulier": "der Hund",
+    "de_pluriel": "die Hunde"
+  },
+  "lapin": {
+    "fr": "lapin",
+    "de_singulier": "das Kaninchen",
+    "de_pluriel": "die Kaninchen"
   }
 }
