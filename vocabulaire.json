@@ -1,9 +1,4 @@
 {
-  "tête": {
-    "fr": "tête",
-    "de_singulier": "der Kopf",
-    "de_pluriel": "die Köpfe"
-  },
   "pied": {
     "fr": "pied",
     "de_singulier": "der Fuß",
@@ -33,11 +28,6 @@
     "fr": "chaise",
     "de_singulier": "der Stuhl",
     "de_pluriel": "die Stühle"
-  },
-  "fenêtre": {
-    "fr": "fenêtre",
-    "de_singulier": "das Fenster",
-    "de_pluriel": "die Fenster"
   },
   "chat": {
     "fr": "chat",
