@@ -45,9 +45,9 @@
     "de_pluriel": "die Kaninchen"
   },
   "nom": {
-  "fr": "nom",
-  "de_singulier": "das Nomen",
-  "de_pluriel": "die Nomen"
+    "fr": "nom",
+    "de_singulier": "das Nomen",
+    "de_pluriel": "die Nomen"
   },
   "règle (objet)": {
     "fr": "règle",
@@ -81,4 +81,4 @@
     "fr": "neutre",
     "de": "neutral"
   }
-}  
+}
