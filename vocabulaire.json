@@ -1,7 +1,7 @@
 {
-"chat": {
-  "fr": "chat",
-  "de_singulier": "die Katze",
-  "de_pluriel": "die Katzen"
-}
+  "chat": {
+    "fr": "chat",
+    "de_singulier": "die Katze",
+    "de_pluriel": "die Katzen"
+  }
 }
