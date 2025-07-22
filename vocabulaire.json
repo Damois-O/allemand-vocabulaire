@@ -3,5 +3,15 @@
     "fr": "chat",
     "de_singulier": "die Katze",
     "de_pluriel": "die Katzen"
+  },
+  "chien": {
+    "fr": "chien",
+    "de_singulier": "der Hund",
+    "de_pluriel": "die Hunde"
+  },
+  "ordinateur portable": {
+    "fr": "ordinateur portable",
+    "de_singulier": "der Laptop",
+    "de_pluriel": "die Laptops"
   }
 }
