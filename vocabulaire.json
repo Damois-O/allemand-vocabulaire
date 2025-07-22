@@ -4,31 +4,12 @@
     "de_singulier": "die Katze",
     "de_pluriel": "die Katzen"
   },
-  "chien": {
-    "fr": "chien",
-    "de_singulier": "der Hund",
-    "de_pluriel": "die Hunde"
-  },
-  "dormir": {
-    "fr": "dormir",
-    "de": "schlafen"
+  "manger": {
+    "fr": "manger",
+    "de": "essen"
   },
   "contre": {
     "fr": "contre",
     "de": "gegen"
-  },
-  "ordinateur portable": {
-    "fr": "ordinateur portable",
-    "de_singulier": "der Laptop",
-    "de_pluriel": "die Laptops"
-  },
-  "calculer": {
-    "fr": "calculer",
-    "de": "rechnen"
-  },
-  "bouilloire électrique": {
-    "fr": "bouilloire électrique",
-    "de_singulier": "der Wasserkocher",
-    "de_pluriel": "die Wasserkocher"
   }
 }
