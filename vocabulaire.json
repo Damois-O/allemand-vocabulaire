@@ -43,5 +43,42 @@
     "fr": "lapin",
     "de_singulier": "das Kaninchen",
     "de_pluriel": "die Kaninchen"
+  },
+  "nom": {
+  "fr": "nom",
+  "de_singulier": "das Nomen",
+  "de_pluriel": "die Nomen"
+  },
+  "règle (objet)": {
+    "fr": "règle",
+    "de_singulier": "das Lineal",
+    "de_pluriel": "die Lineale"
+  },
+  "règle (à suivre)": {
+    "fr": "règle",
+    "de_singulier": "die Regel",
+    "de_pluriel": "die Regeln"
+  },
+  "masculin": {
+    "fr": "masculin",
+    "de": "maskulin"
+  },
+  "métier": {
+    "fr": "métier",
+    "de_singulier": "der Beruf",
+    "de_pluriel": "die Berufe"
+  },
+  "féminin": {
+    "fr": "féminin",
+    "de": "feminin"
+  },
+  "appelation": {
+    "fr": "appelation",
+    "de_singulier": "die Bezeichnung",
+    "de_pluriel": "die Bezeichnungen"
+  },
+  "neutre": {
+    "fr": "neutre",
+    "de": "neutral"
   }
-}
+  
