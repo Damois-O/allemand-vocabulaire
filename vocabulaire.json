@@ -1,114 +1,24 @@
-{
-  "chat": {
-    "fr": "chat",
-    "de_singulier": "die Katze",
-    "de_pluriel": "die Katzen"
-  },
-  "dormir": {
-    "fr": "dormir",
-    "de": "schlafen"
-  },
-  "contre": {
-    "fr": "contre",
-    "de": "gegen"
-  },
-  "ordinateur portable": {
-    "fr": "ordinateur portable",
-    "de_singulier": "der Laptop",
-    "de_pluriel": "die Laptops"
-  },
-  "calculer": {
-    "fr": "calculer",
-    "de": "rechnen"
-  },
-  "bouilloire électrique": {
-    "fr": "bouilloire électrique",
-    "de_singulier": "der Wasserkocher",
-    "de_pluriel": "die Wasserkocher"
-  },
-  "éponge": {
-    "fr": "éponge",
-    "de_singulier": "der Schwamm",
-    "de_pluriel": "die Schwämme"
-  },
-  "nom": {
-    "fr": "nom",
-    "de_singulier": "das Nomen",
-    "de_pluriel": "die Nomen"
-  },
-  "règle (objet)": {
-    "fr": "règle",
-    "de_singulier": "das Lineal",
-    "de_pluriel": "die Lineale"
-  },
-  "règle (à suivre)": {
-    "fr": "règle",
-    "de_singulier": "die Regel",
-    "de_pluriel": "die Regeln"
-  },
-  "masculin": {
-    "fr": "masculin",
-    "de": "maskulin"
-  },
-  "métier": {
-    "fr": "métier",
-    "de_singulier": "der Beruf",
-    "de_pluriel": "die Berufe"
-  },
-  "féminin": {
-    "fr": "féminin",
-    "de": "feminin"
-  },
-  "appelation": {
-    "fr": "appelation",
-    "de_singulier": "die Bezeichnung",
-    "de_pluriel": "die Bezeichnungen"
-  },
-  "neutre": {
-    "fr": "neutre",
-    "de": "neutral"
-  },
-  "pied": {
-    "fr": "pied",
-    "de_singulier": "der Fuß",
-    "de_pluriel": "die Füße"
-  },
-  "calculatrice": {
-    "fr": "calculatrice",
-    "de_singulier": "der Taschenrechner",
-    "de_pluriel": "die Taschenrechner"
-  },
-  "clé": {
-    "fr": "clé",
-    "de_singulier": "der Schlüssel",
-    "de_pluriel": "die Schlüssel"
-  },
-  "table": {
-    "fr": "table",
-    "de_singulier": "der Tisch",
-    "de_pluriel": "die Tische"
-  },
-  "chaise": {
-    "fr": "chaise",
-    "de_singulier": "der Stuhl",
-    "de_pluriel": "die Stühle"
-  },
-  "chien": {
-    "fr": "chien",
-    "de_singulier": "der Hund",
-    "de_pluriel": "die Hunde"
-  },
-  "lapin": {
-    "fr": "lapin",
-    "de_singulier": "das Kaninchen",
-    "de_pluriel": "die Kaninchen"
-  },
-  "manger": {
-    "fr": "manger",
-    "de": "essen"
-  },
-  "avec": {
-    "fr": "avec",
-    "de": "mit"
-  }
-}
+{"fr":"chat","de_singulier":"die Katze","de_pluriel":"die Katzen"},
+{"fr":"contre","de":"gegen"},
+{"fr":"ordinateur portable","de_singulier":"der Laptop","de_pluriel":"die Laptops"},
+{"fr":"bouilloire électrique","de_singulier":"der Wasserkocher","de_pluriel":"die Wasserkocher"},
+{"fr":"éponge","de_singulier":"der Schwamm","de_pluriel":"die Schwämme"},
+{"fr":"nom","de_singulier":"das Nomen","de_pluriel":"die Nomen"},
+{"fr":"règle","de_singulier":"das Lineal","de_pluriel":"die Lineale"},
+{"fr":"règle","de_singulier":"die Regel","de_pluriel":"die Regeln"},
+{"fr":"masculin","de":"maskulin"},
+{"fr":"métier","de_singulier":"der Beruf","de_pluriel":"die Berufe"},
+{"fr":"féminin","de":"feminin"},
+{"fr":"appelation","de_singulier":"die Bezeichnung","de_pluriel":"die Bezeichnungen"},
+{"fr":"neutre","de":"neutral"},
+{"fr":"pied","de_singulier":"der Fuß","de_pluriel":"die Füße"},
+{"fr":"calculatrice","de_singulier":"der Taschenrechner","de_pluriel":"die Taschenrechner"},
+{"fr":"clé","de_singulier":"der Schlüssel","de_pluriel":"die Schlüssel"},
+{"fr":"table","de_singulier":"der Tisch","de_pluriel":"die Tische"},
+{"fr":"chaise","de_singulier":"der Stuhl","de_pluriel":"die Stühle"},
+{"fr":"chien","de_singulier":"der Hund","de_pluriel":"die Hunde"},
+{"fr":"lapin","de_singulier":"das Kaninchen","de_pluriel":"die Kaninchen"},
+{"fr":"avec","de":"mit"},
+{"fr":"dormir","de":"schlafen","conjugaisons":{"present":{"ich":"schlafe","du":"schläfst","er/sie/es":"schläft","wir":"schlafen","ihr":"schlaft","sie/Sie":"schlafen"},"passe":{"ich":"schlief","du":"schliefst","er/sie/es":"schlief","wir":"schliefen","ihr":"schlieft","sie/Sie":"schliefen"},"futur":{"ich":"werde schlafen","du":"wirst schlafen","er/sie/es":"wird schlafen","wir":"werden schlafen","ihr":"werdet schlafen","sie/Sie":"werden schlafen"},"participe":"geschlafen"}},
+{"fr":"calculer","de":"rechnen","conjugaisons":{"present":{"ich":"rechne","du":"rechnest","er/sie/es":"rechnet","wir":"rechnen","ihr":"rechnet","sie/Sie":"rechnen"},"passe":{"ich":"rechnete","du":"rechnetest","er/sie/es":"rechnete","wir":"rechneten","ihr":"rechnetet","sie/Sie":"rechneten"},"futur":{"ich":"werde rechnen","du":"wirst rechnen","er/sie/es":"wird rechnen","wir":"werden rechnen","ihr":"werdet rechnen","sie/Sie":"werden rechnen"},"participe":"gerechnet"}},
+{"fr":"manger","de":"essen","conjugaisons":{"present":{"ich":"esse","du":"isst","er/sie/es":"isst","wir":"essen","ihr":"esst","sie/Sie":"essen"},"passe":{"ich":"aß","du":"aßest","er/sie/es":"aß","wir":"aßen","ihr":"aßt","sie/Sie":"aßen"},"futur":{"ich":"werde essen","du":"wirst essen","er/sie/es":"wird essen","wir":"werden essen","ihr":"werdet essen","sie/Sie":"werden essen"},"participe":"gegessen"}}
