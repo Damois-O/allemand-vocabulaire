@@ -1,3 +1,4 @@
+[
 {"fr":"chat","de_singulier":"die Katze","de_pluriel":"die Katzen"},
 {"fr":"contre","de":"gegen"},
 {"fr":"ordinateur portable","de_singulier":"der Laptop","de_pluriel":"die Laptops"},
@@ -22,3 +23,4 @@
 {"fr":"dormir","de":"schlafen","conjugaisons":{"present":{"ich":"schlafe","du":"schläfst","er/sie/es":"schläft","wir":"schlafen","ihr":"schlaft","sie/Sie":"schlafen"},"passe":{"ich":"schlief","du":"schliefst","er/sie/es":"schlief","wir":"schliefen","ihr":"schlieft","sie/Sie":"schliefen"},"futur":{"ich":"werde schlafen","du":"wirst schlafen","er/sie/es":"wird schlafen","wir":"werden schlafen","ihr":"werdet schlafen","sie/Sie":"werden schlafen"},"participe":"geschlafen"}},
 {"fr":"calculer","de":"rechnen","conjugaisons":{"present":{"ich":"rechne","du":"rechnest","er/sie/es":"rechnet","wir":"rechnen","ihr":"rechnet","sie/Sie":"rechnen"},"passe":{"ich":"rechnete","du":"rechnetest","er/sie/es":"rechnete","wir":"rechneten","ihr":"rechnetet","sie/Sie":"rechneten"},"futur":{"ich":"werde rechnen","du":"wirst rechnen","er/sie/es":"wird rechnen","wir":"werden rechnen","ihr":"werdet rechnen","sie/Sie":"werden rechnen"},"participe":"gerechnet"}},
 {"fr":"manger","de":"essen","conjugaisons":{"present":{"ich":"esse","du":"isst","er/sie/es":"isst","wir":"essen","ihr":"esst","sie/Sie":"essen"},"passe":{"ich":"aß","du":"aßest","er/sie/es":"aß","wir":"aßen","ihr":"aßt","sie/Sie":"aßen"},"futur":{"ich":"werde essen","du":"wirst essen","er/sie/es":"wird essen","wir":"werden essen","ihr":"werdet essen","sie/Sie":"werden essen"},"participe":"gegessen"}}
+]
