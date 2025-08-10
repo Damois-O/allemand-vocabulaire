@@ -40,5 +40,6 @@
 {"fr":"vacances","de_singulier":"die Ferien","de_pluriel":"die Ferien"},
 {"fr":"congés","de_singulier":"der Urlaub","de_pluriel":"die Urlaube"},
 {"fr":"(ici) même","de":"gleich"},
-{"fr":"à la campagne","de":"auf dem Land"}
+{"fr":"à la campagne","de":"auf dem Land"},
+{"fr":"travailler","de":"arbeiten","cat":"verbe","conjugaisons":{"present":["ich arbeite","du arbeitest","er/sie/es arbeitet","wir arbeiten","ihr arbeitet","sie/Sie arbeiten"],"passe":["ich arbeitete","du arbeitetest","er/sie/es arbeitete","wir arbeiteten","ihr arbeitetet","sie/Sie arbeiteten"],"futur":["ich werde arbeiten","du wirst arbeiten","er/sie/es wird arbeiten","wir werden arbeiten","ihr werdet arbeiten","sie/Sie werden arbeiten"],"participe":"gearbeitet"}}
 ]
