@@ -49,5 +49,6 @@
 {"fr":"pourquoi","de":"warum","cat":"pronoms interro"},
 {"fr":"où","de":"wo","cat":"pronoms interro"},
 {"fr":"d’où","de":"woher","cat":"pronoms interro"},
-{"fr":"où (direction)","de":"wohin","cat":"pronoms interro"}
+{"fr":"où (direction)","de":"wohin","cat":"pronoms interro"},
+{"fr":"la tour de télévision","de_singulier":"der Fernsehturm","de_pluriel":"die Fernsehtürme"}
 ]
