@@ -50,5 +50,6 @@
 {"fr":"où","de":"wo","cat":"pronoms interro"},
 {"fr":"d’où","de":"woher","cat":"pronoms interro"},
 {"fr":"où (direction)","de":"wohin","cat":"pronoms interro"},
-{"fr":"la tour de télévision","de_singulier":"der Fernsehturm","de_pluriel":"die Fernsehtürme"}
+{"fr":"la tour de télévision","de_singulier":"der Fernsehturm","de_pluriel":"die Fernsehtürme"},
+{"fr":"dormir","de":"schlafen","cat":{"principal":"verbes","sous":"fort"},"conjugaisons":{"present":["ich schlafe","du schläfst","er/sie/es schläft","wir schlafen","ihr schlaft","sie/Sie schlafen"],"passe":["ich schlief","du schliefst","er/sie/es schlief","wir schliefen","ihr schlieft","sie/Sie schliefen"],"futur":["ich werde schlafen","du wirst schlafen","er/sie/es wird schlafen","wir werden schlafen","ihr werdet schlafen","sie/Sie werden schlafen"],"participe":"geschlafen"}}
 ]
