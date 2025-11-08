@@ -64,5 +64,6 @@
 {"fr":"stylo","de_singulier":"der Stift","de_pluriel":"die Stifte","cat":{"principal":"noms","sous":"fournitures"}},
 {"fr":"ciseaux","de_singulier":"die Schere","de_pluriel":"die Scheren","cat":{"principal":"noms","sous":"fournitures"}},
 {"fr":"règle","de_singulier":"das Lineal","de_pluriel":"die Lineale","cat":{"principal":"noms","sous":"fournitures"}},
-{"fr":"crayon de couleur","de_singulier":"der Buntstift","de_pluriel":"die Buntstifte","cat":{"principal":"noms","sous":"fournitures"}}
+{"fr":"crayon de couleur","de_singulier":"der Buntstift","de_pluriel":"die Buntstifte","cat":{"principal":"noms","sous":"fournitures"}},
+{"fr":"quelque chose","de":"etwas","cat":{"principal":"sans catégorie"}}
 ]
