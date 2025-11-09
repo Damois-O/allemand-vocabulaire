@@ -65,5 +65,13 @@
 {"fr":"ciseaux","de_singulier":"die Schere","de_pluriel":"die Scheren","cat":{"principal":"noms","sous":"fournitures"}},
 {"fr":"règle","de_singulier":"das Lineal","de_pluriel":"die Lineale","cat":{"principal":"noms","sous":"fournitures"}},
 {"fr":"crayon de couleur","de_singulier":"der Buntstift","de_pluriel":"die Buntstifte","cat":{"principal":"noms","sous":"fournitures"}},
-{"fr":"quelque chose","de":"etwas"}}
+{"fr":"quelque chose","de":"etwas"}},
+{"fr":"aussi","de":"auch","cat":{"principal":"sans catégorie"}},
+{"fr":"pas encore","de":"noch nicht","cat":{"principal":"sans catégorie"}},
+{"fr":"guitare","de_singulier":"die Gitarre","de_pluriel":"die Gitarren","cat":{"principal":"noms","sous":"instruments de musique"}},
+{"fr":"nager","de":"schwimmen","cat":{"principal":"verbes"},"conjugaisons":{"present":["ich schwimme","du schwimmst","er/sie/es schwimmt","wir schwimmen","ihr schwimmt","sie/Sie schwimmen"],"passe":["ich schwamm","du schwammst","er/sie/es schwamm","wir schwammen","ihr schwammt","sie/Sie schwammen"],"futur":["ich werde schwimmen","du wirst schwimmen","er/sie/es wird schwimmen","wir werden schwimmen","ihr werdet schwimmen","sie/Sie werden schwimmen"],"participe":"geschwommen"}},
+{"fr":"chanter","de":"singen","cat":{"principal":"verbes"},"conjugaisons":{"present":["ich singe","du singst","er/sie/es singt","wir singen","ihr singt","sie/Sie singen"],"passe":["ich sang","du sangst","er/sie/es sang","wir sangen","ihr sangt","sie/Sie sangen"],"futur":["ich werde singen","du wirst singen","er/sie/es wird singen","wir werden singen","ihr werdet singen","sie/Sie werden singen"],"participe":"gesungen"}},
+{"fr":"occupé","de":"beschäftigt","cat":{"principal":"adjectifs"}},
+{"fr":"vraiment","de":"echt","cat":{"principal":"sans catégorie"}},
+{"fr":"à tout de suite","de":"Bis gleich","cat":{"principal":"sans catégorie"}}
 ]
