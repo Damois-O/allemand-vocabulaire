@@ -89,5 +89,9 @@
 {"fr":"terminé","de":"fertig","cat":{"principal":"adjectifs"}},
 {"fr":"alors","de":"dann","cat":{"principal":"sans catégorie"}},
 {"fr":"chaque","de":"jeden","cat":{"principal":"sans catégorie"}},
-{"fr":"presque toujours","de":"fast immer","cat":{"principal":"sans catégorie"}}
+{"fr":"presque toujours","de":"fast immer","cat":{"principal":"sans catégorie"}},
+{"fr":"soeur","de_singulier":"die Schwester","de_pluriel":"die Schwestern","cat":{"principal":"noms"}},
+{"fr":"asperge","de_singulier":"der Spargel","de_pluriel":"die Spargel","cat":{"principal":"noms"}},
+{"fr":"heure","de_singulier":"die Stunde","de_pluriel":"die Stunden","cat":{"principal":"noms"}},
+{"fr":"rhume","de_singulier":"die Erkältung","de_pluriel":"die Erkältungen","cat":{"principal":"noms"}}
 ]
